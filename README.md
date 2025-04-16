@@ -35,7 +35,7 @@ https://github.com/open-webui/open-webui
 
 ## What I learned doing this 
 - How to install and setup **Docker Desktop** for server usage
-- how to run **AI models** locally using **Ollama** (Including optimizations for CPU-only usage)
+- How to run **AI models** locally using **Ollama** (Including optimizations for CPU-only usage)
 - Learned how to create and manage **Docker containers** for self-hosted services.
 - Gained hands-on experience with **Docker compose** for container creation.
 - Gained understanding of how **YAML** files work and their role in Docker configurations
