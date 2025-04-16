@@ -20,7 +20,7 @@ This project is a self-hosted AI server using **Ubuntu Desktop** as the OS and h
 
 ## Links for Installation
 
--**Docker installation** 
+- **Docker installation** 
 https://docs.docker.com/engine/install/ubuntu/
 
 - **Ubuntu installation**
