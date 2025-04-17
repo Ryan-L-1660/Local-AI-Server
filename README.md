@@ -34,6 +34,7 @@ https://github.com/open-webui/open-webui
 
 
 ## What I learned doing this 
+- Learn how to install and setup **Ubuntu Desktop**
 - How to install and setup **Docker Desktop** for server usage
 - How to run **AI models** locally using **Ollama** (Including optimizations for CPU-only usage)
 - Learned how to create and manage **Docker containers** for self-hosted services.
